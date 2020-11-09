@@ -7,6 +7,6 @@ To learn more about Sockets refer
 ```
 npm install
 npm start
+Server started on localhost:4040
 ```
-Server started on localhost:4040<br/>
 To make a `Realtime` Collaborative whiteboard with socket.io refer [here](https://github.com/socketio/socket.io/tree/master/examples/whiteboard)
